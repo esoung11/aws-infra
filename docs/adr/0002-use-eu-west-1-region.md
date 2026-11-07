@@ -1,7 +1,7 @@
 # 2. Use eu-west-1 (Ireland) as the AWS region
 
 Date: 2026-10-02 (recorded 2026-10-19)
-Status: Accepted
+Status: Superseded by ADR-0005
 
 ## Context
 Every AWS resource lives in a region, and moving later means rebuilding. The
